@@ -1,8 +1,8 @@
 ---
 title: "【Godot】NodePathで変数にアクセスしたい"
 emoji: "👏"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [Godot]
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: [Godot,GodotEngine,gdscript]
 published: true
 ---
 
