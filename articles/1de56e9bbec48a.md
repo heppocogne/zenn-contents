@@ -3,7 +3,7 @@ title: "【Godot】Webエクスポートをする際の注意点"
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Godot, GodotEngine, gamedev]
-published: false
+published: true
 ---
 
 # はじめに
