@@ -3,7 +3,7 @@ title: "単体テスト等で使える便利なmock関数"
 emoji: "🍣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [cpp,UnitTest]
-published: false
+published: true
 ---
 基本的には関数を呼ばれた回数を記録するだけの関数オブジェクトです。  
 例えばインターフェイスを抽象化してロジックから分離してある場合に、テストでインターフェイス側がちゃんと動いているかを見ることができます。
