@@ -3,7 +3,7 @@ title: "Flutterで作ったアプリをGoogle Playにアップロードしてテ
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Flutter, Android, Google_Play]
-published: false
+published: true
 ---
 # 手順
 1. アプリを署名付きでビルドする
